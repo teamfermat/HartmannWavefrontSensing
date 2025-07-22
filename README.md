@@ -19,11 +19,11 @@ Thermal deformation in the optics poses challenges for accurate measurement, and
 ---
 
 ## Repository Structure
-📁 WFS_20240228
-└── Main simulation program and core functions
+WFS_20240228
+─ Main simulation program and core functions
 
-📁 WFS_Import
-└── Subroutines and utility functions
+WFS_Import
+─ Subroutines and utility functions
 
 📁 Simulation data - Curves for sensor performance with noise 1
 📁 Simulation data 2 - Curves for sensor performance with noise 10
